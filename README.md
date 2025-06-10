@@ -3,8 +3,8 @@
 
 ---
 
-- 🔭 I’m currently working on **SQL projects using the world database**
-- 🌱 I’m currently learning **Power BI** and **Advanced Excel**
+- 🔭 I’m currently working on **Power BI Projects**
+- 🌱 I’m currently learning **Power BI**, **Advanced Excel** and **SQL**
 - 💼 Looking for opportunities in **Data Analytics** and **Business Intelligence**
 - 👨‍💻 My latest project: [World SQL Analysis](https://github.com/your-username/world-sql-project)
 - 📫 How to reach me: **ahmadrayaan7212@gmail.com**
