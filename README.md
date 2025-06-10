@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **Power BI Projects**
 - 🌱 I’m currently learning **Power BI**, **Advanced Excel** and **SQL**
 - 💼 Looking for opportunities in **Data Analytics** and **Business Intelligence**
-- 👨‍💻 My latest project: [Bike Store Revenue Analysis – Power BI Dashboard]([https://github.com/your-username/world-sql-project](https://github.com/rayaan07jpg/BikeStore-Revenue-Analysis])(https://github.com/rayaan07jpg/BikeStore-Revenue-Analysis)
+- 👨‍💻 My latest project: [Bike Store Revenue Analysis – Power BI Dashboard](https://github.com/rayaan07jpg/BikeStore-Revenue-Analysis)
 - 📫 How to reach me: **ahmadrayaan7212@gmail.com**
 - 🧠 I’m also exploring **Python for Data Analysis**
 
